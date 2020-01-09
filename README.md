@@ -20,7 +20,7 @@ This project is made to create a custom personal framework, one of the Microvers
 
 **Certil Remy**
 
-- Github: [@certilremy](https://github.com/Kasuhira)
+- Github: [@certilremy](https://github.com/certilremy)
 
 
 ## Contributing
